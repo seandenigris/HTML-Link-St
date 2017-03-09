@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "HtmlLink",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"destination",
+		"text"
+	],
+	"name" : "HtmlLink",
+	"type" : "normal"
+}
