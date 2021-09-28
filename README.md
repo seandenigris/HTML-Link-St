@@ -1,0 +1,1 @@
+This project modeled HTML links, with some helpful behavior (e.g. pasting them on MacOS clipboard). The code can now be found as part of the [Pharo-Enhancements](https://github.com/seandenigris/Pharo-Enhancements) project.
